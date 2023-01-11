@@ -1,1 +1,3 @@
 importanat.txt
+__pycache__/
+*.pyc
